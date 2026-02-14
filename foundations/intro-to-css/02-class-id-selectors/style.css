@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #f2aaa8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
